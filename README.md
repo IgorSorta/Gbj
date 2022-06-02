@@ -1,6 +1,6 @@
 # Gbj
 
-**TODO: Add description**
+Working with libcluster.
 
 ## Installation
 
